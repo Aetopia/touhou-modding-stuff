@@ -1,4 +1,4 @@
-# Touhou Stuff
+# Touhou Modding Stuff
 Collection of stuff related to Touhou Modding.
 
 ### [Touhou Community Reliant Automatic Patcher](https://github.com/thpatch/thcrap)
